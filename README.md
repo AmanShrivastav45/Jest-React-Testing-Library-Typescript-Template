@@ -1,4 +1,4 @@
-<h1 align="center">Jest-React-Testing-Library-Typescript-Template</h1>
+<h2 align="center">Jest-React-Testing-Library-Typescript-Template</h2>
 <p align="justify">This template is a ready-to-use setup for React applications with <b>TypeScript</b>, <b>Vite</b>, <b>Jest</b>, and <b>React Testing Library</b>. It’s designed for developers who want to start writing tests immediately. The environment is pre-configured with everything needed to begin testing your components out-of-the-box.
 Whether you are starting a new project or looking for a testing template, this setup allows you to focus on building and testing your application without the need for complex configurations.</p>
 
@@ -43,7 +43,11 @@ Run the tests:
 ```
 npm run test
 ```
+![image](https://github.com/user-attachments/assets/f787e05a-d1b6-4556-8505-b88f94218f85)
+
 Run the tests with coverage:
 ```
 npm run test:cov
 ```
+![image](https://github.com/user-attachments/assets/fcbd9cfa-52f2-4ded-8c5f-50bdd2b89d47)
+

@@ -3,16 +3,16 @@
 Whether you are starting a new project or looking for a testing template, this setup allows you to focus on building and testing your application without the need for complex configurations.</p>
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="25"/> 
-  <img src="https://img.shields.io/badge/19.0.0-blue" height="25"/> 
-  <img src="https://vitejs.dev/logo.svg" height="25"/>
-  <img src="https://img.shields.io/badge/6.3.1-purple" height="25"/> 
-  <img src="https://www.jetbrains.com/guide/assets/jest-5ee71e9b.svg" height="25"/>
-  <img src="https://img.shields.io/badge/29.7.0-brightgreen" height="25"/>  
-  <img src="https://testing-library.com/img/octopus-64x64.png" height="25"/>
-  <img src="https://img.shields.io/badge/16.3.0-red" height="25"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="25"/>
-  <img src="https://img.shields.io/badge/5.7.2-blueviolet" height="25"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="20"/> 
+  <img src="https://img.shields.io/badge/19.0.0-blue" height="20"/> 
+  <img src="https://vitejs.dev/logo.svg" height="20"/>
+  <img src="https://img.shields.io/badge/6.3.1-purple" height="20"/> 
+  <img src="https://www.jetbrains.com/guide/assets/jest-5ee71e9b.svg" height="20"/>
+  <img src="https://img.shields.io/badge/29.7.0-brightgreen" height="20"/>  
+  <img src="https://testing-library.com/img/octopus-64x64.png" height="20"/>
+  <img src="https://img.shields.io/badge/16.3.0-red" height="20"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" height="20"/>
+  <img src="https://img.shields.io/badge/5.7.2-blueviolet" height="20"/>
 </div>
 
 ## Installation
